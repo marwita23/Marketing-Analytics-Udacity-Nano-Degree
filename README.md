@@ -9,7 +9,10 @@ In this project, were have been asked to find three insights in the visualizatio
 
 **Project 2:Analyze survey data of Udacity student**
 
-In this project, I analyzed a real dataset about current Udacity students across a number of programs using spreadsheets
+In this project, I analyzed a real dataset about current Udacity students across a number of programs using spreadsheets.
 
 **Project 3:Storytelling with the Data**
 
+For this project I have used Ecommerce Dataset from UK retailer. This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The purpose of this analysis is to look at the sales history and provide some insights.
+
+**Project 4:Data visualization**
